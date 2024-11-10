@@ -1,4 +1,4 @@
-# Full Stack README.md Template
+# Full Stack README Template
 
 ## Project Overview
 
