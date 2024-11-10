@@ -1,4 +1,4 @@
-# Sydney Dam Monitoring - Live Data Collection & Analysis
+# Full Stack README.md Template
 
 ## Project Overview
 
